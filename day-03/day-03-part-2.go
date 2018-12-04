@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 	"regexp"
-	"strings"
 	"strconv"
+	"strings"
 )
 
 type Coord struct {
